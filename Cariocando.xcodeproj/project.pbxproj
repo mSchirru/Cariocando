@@ -1,0 +1,406 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6C015DCC1DB086A200E11B1D /* ViewControllerAround.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C015DCB1DB086A200E11B1D /* ViewControllerAround.swift */; };
+		6C035CC11DAB192000741D68 /* Centro.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6C035CC01DAB192000741D68 /* Centro.plist */; };
+		6C035CC31DAB274C00741D68 /* ViewController_Horto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C035CC21DAB274C00741D68 /* ViewController_Horto.swift */; };
+		6C035CC51DAB297300741D68 /* Horto.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6C035CC41DAB297300741D68 /* Horto.plist */; };
+		6C035CC71DAB2CD600741D68 /* ViewController_ParqueTijuca.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C035CC61DAB2CD600741D68 /* ViewController_ParqueTijuca.swift */; };
+		6C035CC91DAB2D8D00741D68 /* ParqueTijuca.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6C035CC81DAB2D8D00741D68 /* ParqueTijuca.plist */; };
+		6C035CCB1DAB341D00741D68 /* ViewController_DetalhesPontosTuristicos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C035CCA1DAB341D00741D68 /* ViewController_DetalhesPontosTuristicos.swift */; };
+		6C38119F1DAB0F9E00878120 /* TableViewCell_Listas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C38119E1DAB0F9E00878120 /* TableViewCell_Listas.swift */; };
+		6C3811A11DAB15EB00878120 /* ViewController_Centro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3811A01DAB15EB00878120 /* ViewController_Centro.swift */; };
+		6C9E303D1DAE9DAA00476FB0 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C9E303C1DAE9DAA00476FB0 /* Media.xcassets */; };
+		6CBBCB881DAAD66D00B80C91 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CBBCB871DAAD66D00B80C91 /* AppDelegate.swift */; };
+		6CBBCB8A1DAAD66D00B80C91 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CBBCB891DAAD66D00B80C91 /* ViewController.swift */; };
+		6CBBCB8D1DAAD66D00B80C91 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CBBCB8B1DAAD66D00B80C91 /* Main.storyboard */; };
+		6CBBCB8F1DAAD66D00B80C91 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CBBCB8E1DAAD66D00B80C91 /* Assets.xcassets */; };
+		6CBBCB921DAAD66D00B80C91 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CBBCB901DAAD66D00B80C91 /* LaunchScreen.storyboard */; };
+		6CBBCB9B1DAAD67F00B80C91 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CBBCB9A1DAAD67F00B80C91 /* MapKit.framework */; };
+		6CBBCB9D1DAAD68900B80C91 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CBBCB9C1DAAD68900B80C91 /* CoreLocation.framework */; };
+		6CCE37251DABE8F3001351CB /* ViewControllerDetalhesTrilhas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CCE37241DABE8F3001351CB /* ViewControllerDetalhesTrilhas.swift */; };
+		6CCE37291DAC0386001351CB /* Praias.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6CCE37281DAC0386001351CB /* Praias.plist */; };
+		6CCE372B1DAC06DF001351CB /* ViewController_Praias.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CCE372A1DAC06DF001351CB /* ViewController_Praias.swift */; };
+		6CCE372D1DAC1182001351CB /* ViewControllerDetalhesPraia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CCE372C1DAC1182001351CB /* ViewControllerDetalhesPraia.swift */; };
+		6CCE37351DAC52DF001351CB /* StTereza.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6CCE37341DAC52DF001351CB /* StTereza.plist */; };
+		6CCE37371DAC5575001351CB /* Aterro.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6CCE37361DAC5575001351CB /* Aterro.plist */; };
+		6CCE37391DAC5A0B001351CB /* ViewController_Aterro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CCE37381DAC5A0B001351CB /* ViewController_Aterro.swift */; };
+		6CCE373B1DAC5A1D001351CB /* ViewController_StTeresa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CCE373A1DAC5A1D001351CB /* ViewController_StTeresa.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		6C015DCB1DB086A200E11B1D /* ViewControllerAround.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerAround.swift; sourceTree = "<group>"; };
+		6C035CC01DAB192000741D68 /* Centro.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Centro.plist; sourceTree = "<group>"; };
+		6C035CC21DAB274C00741D68 /* ViewController_Horto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController_Horto.swift; sourceTree = "<group>"; };
+		6C035CC41DAB297300741D68 /* Horto.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Horto.plist; sourceTree = "<group>"; };
+		6C035CC61DAB2CD600741D68 /* ViewController_ParqueTijuca.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController_ParqueTijuca.swift; sourceTree = "<group>"; };
+		6C035CC81DAB2D8D00741D68 /* ParqueTijuca.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ParqueTijuca.plist; sourceTree = "<group>"; };
+		6C035CCA1DAB341D00741D68 /* ViewController_DetalhesPontosTuristicos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController_DetalhesPontosTuristicos.swift; sourceTree = "<group>"; };
+		6C38119E1DAB0F9E00878120 /* TableViewCell_Listas.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell_Listas.swift; sourceTree = "<group>"; };
+		6C3811A01DAB15EB00878120 /* ViewController_Centro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController_Centro.swift; sourceTree = "<group>"; };
+		6C9E303C1DAE9DAA00476FB0 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		6CBBCB841DAAD66C00B80C91 /* Cariocando.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cariocando.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CBBCB871DAAD66D00B80C91 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6CBBCB891DAAD66D00B80C91 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		6CBBCB8C1DAAD66D00B80C91 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		6CBBCB8E1DAAD66D00B80C91 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6CBBCB911DAAD66D00B80C91 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		6CBBCB931DAAD66D00B80C91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6CBBCB9A1DAAD67F00B80C91 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		6CBBCB9C1DAAD68900B80C91 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		6CCE37241DABE8F3001351CB /* ViewControllerDetalhesTrilhas.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerDetalhesTrilhas.swift; sourceTree = "<group>"; };
+		6CCE37281DAC0386001351CB /* Praias.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Praias.plist; sourceTree = "<group>"; };
+		6CCE372A1DAC06DF001351CB /* ViewController_Praias.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController_Praias.swift; sourceTree = "<group>"; };
+		6CCE372C1DAC1182001351CB /* ViewControllerDetalhesPraia.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerDetalhesPraia.swift; sourceTree = "<group>"; };
+		6CCE37341DAC52DF001351CB /* StTereza.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = StTereza.plist; sourceTree = "<group>"; };
+		6CCE37361DAC5575001351CB /* Aterro.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Aterro.plist; sourceTree = "<group>"; };
+		6CCE37381DAC5A0B001351CB /* ViewController_Aterro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController_Aterro.swift; sourceTree = "<group>"; };
+		6CCE373A1DAC5A1D001351CB /* ViewController_StTeresa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController_StTeresa.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6CBBCB811DAAD66C00B80C91 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6CBBCB9D1DAAD68900B80C91 /* CoreLocation.framework in Frameworks */,
+				6CBBCB9B1DAAD67F00B80C91 /* MapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6CBBCB7B1DAAD66C00B80C91 = {
+			isa = PBXGroup;
+			children = (
+				6C9E303C1DAE9DAA00476FB0 /* Media.xcassets */,
+				6CBBCB861DAAD66C00B80C91 /* Cariocando */,
+				6CBBCB851DAAD66C00B80C91 /* Products */,
+				6CBBCB991DAAD67F00B80C91 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		6CBBCB851DAAD66C00B80C91 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6CBBCB841DAAD66C00B80C91 /* Cariocando.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6CBBCB861DAAD66C00B80C91 /* Cariocando */ = {
+			isa = PBXGroup;
+			children = (
+				6CBBCB871DAAD66D00B80C91 /* AppDelegate.swift */,
+				6CBBCB891DAAD66D00B80C91 /* ViewController.swift */,
+				6C3811A01DAB15EB00878120 /* ViewController_Centro.swift */,
+				6C035CC21DAB274C00741D68 /* ViewController_Horto.swift */,
+				6C035CC61DAB2CD600741D68 /* ViewController_ParqueTijuca.swift */,
+				6CCE373A1DAC5A1D001351CB /* ViewController_StTeresa.swift */,
+				6CCE372A1DAC06DF001351CB /* ViewController_Praias.swift */,
+				6CCE37381DAC5A0B001351CB /* ViewController_Aterro.swift */,
+				6C035CC81DAB2D8D00741D68 /* ParqueTijuca.plist */,
+				6C035CC41DAB297300741D68 /* Horto.plist */,
+				6C035CC01DAB192000741D68 /* Centro.plist */,
+				6CCE37341DAC52DF001351CB /* StTereza.plist */,
+				6CCE37361DAC5575001351CB /* Aterro.plist */,
+				6CBBCB8B1DAAD66D00B80C91 /* Main.storyboard */,
+				6C015DCB1DB086A200E11B1D /* ViewControllerAround.swift */,
+				6CCE372C1DAC1182001351CB /* ViewControllerDetalhesPraia.swift */,
+				6CCE37281DAC0386001351CB /* Praias.plist */,
+				6CCE37241DABE8F3001351CB /* ViewControllerDetalhesTrilhas.swift */,
+				6C035CCA1DAB341D00741D68 /* ViewController_DetalhesPontosTuristicos.swift */,
+				6C38119E1DAB0F9E00878120 /* TableViewCell_Listas.swift */,
+				6CBBCB8E1DAAD66D00B80C91 /* Assets.xcassets */,
+				6CBBCB901DAAD66D00B80C91 /* LaunchScreen.storyboard */,
+				6CBBCB931DAAD66D00B80C91 /* Info.plist */,
+			);
+			path = Cariocando;
+			sourceTree = "<group>";
+		};
+		6CBBCB991DAAD67F00B80C91 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6CBBCB9C1DAAD68900B80C91 /* CoreLocation.framework */,
+				6CBBCB9A1DAAD67F00B80C91 /* MapKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6CBBCB831DAAD66C00B80C91 /* Cariocando */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6CBBCB961DAAD66D00B80C91 /* Build configuration list for PBXNativeTarget "Cariocando" */;
+			buildPhases = (
+				6CBBCB801DAAD66C00B80C91 /* Sources */,
+				6CBBCB811DAAD66C00B80C91 /* Frameworks */,
+				6CBBCB821DAAD66C00B80C91 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Cariocando;
+			productName = Cariocando;
+			productReference = 6CBBCB841DAAD66C00B80C91 /* Cariocando.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6CBBCB7C1DAAD66C00B80C91 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0800;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Mikael Schirru";
+				TargetAttributes = {
+					6CBBCB831DAAD66C00B80C91 = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = CVG92LFDXG;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 6CBBCB7F1DAAD66C00B80C91 /* Build configuration list for PBXProject "Cariocando" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6CBBCB7B1DAAD66C00B80C91;
+			productRefGroup = 6CBBCB851DAAD66C00B80C91 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6CBBCB831DAAD66C00B80C91 /* Cariocando */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6CBBCB821DAAD66C00B80C91 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6C035CC91DAB2D8D00741D68 /* ParqueTijuca.plist in Resources */,
+				6CBBCB921DAAD66D00B80C91 /* LaunchScreen.storyboard in Resources */,
+				6C9E303D1DAE9DAA00476FB0 /* Media.xcassets in Resources */,
+				6CCE37291DAC0386001351CB /* Praias.plist in Resources */,
+				6C035CC51DAB297300741D68 /* Horto.plist in Resources */,
+				6C035CC11DAB192000741D68 /* Centro.plist in Resources */,
+				6CBBCB8F1DAAD66D00B80C91 /* Assets.xcassets in Resources */,
+				6CBBCB8D1DAAD66D00B80C91 /* Main.storyboard in Resources */,
+				6CCE37351DAC52DF001351CB /* StTereza.plist in Resources */,
+				6CCE37371DAC5575001351CB /* Aterro.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6CBBCB801DAAD66C00B80C91 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6CBBCB8A1DAAD66D00B80C91 /* ViewController.swift in Sources */,
+				6C015DCC1DB086A200E11B1D /* ViewControllerAround.swift in Sources */,
+				6CCE373B1DAC5A1D001351CB /* ViewController_StTeresa.swift in Sources */,
+				6C38119F1DAB0F9E00878120 /* TableViewCell_Listas.swift in Sources */,
+				6CCE372D1DAC1182001351CB /* ViewControllerDetalhesPraia.swift in Sources */,
+				6C035CC31DAB274C00741D68 /* ViewController_Horto.swift in Sources */,
+				6CBBCB881DAAD66D00B80C91 /* AppDelegate.swift in Sources */,
+				6C035CCB1DAB341D00741D68 /* ViewController_DetalhesPontosTuristicos.swift in Sources */,
+				6CCE372B1DAC06DF001351CB /* ViewController_Praias.swift in Sources */,
+				6C035CC71DAB2CD600741D68 /* ViewController_ParqueTijuca.swift in Sources */,
+				6CCE37391DAC5A0B001351CB /* ViewController_Aterro.swift in Sources */,
+				6CCE37251DABE8F3001351CB /* ViewControllerDetalhesTrilhas.swift in Sources */,
+				6C3811A11DAB15EB00878120 /* ViewController_Centro.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		6CBBCB8B1DAAD66D00B80C91 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6CBBCB8C1DAAD66D00B80C91 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		6CBBCB901DAAD66D00B80C91 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6CBBCB911DAAD66D00B80C91 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6CBBCB941DAAD66D00B80C91 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6CBBCB951DAAD66D00B80C91 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6CBBCB971DAAD66D00B80C91 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = CVG92LFDXG;
+				INFOPLIST_FILE = Cariocando/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Schirru;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		6CBBCB981DAAD66D00B80C91 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = CVG92LFDXG;
+				INFOPLIST_FILE = Cariocando/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Schirru;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6CBBCB7F1DAAD66C00B80C91 /* Build configuration list for PBXProject "Cariocando" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6CBBCB941DAAD66D00B80C91 /* Debug */,
+				6CBBCB951DAAD66D00B80C91 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6CBBCB961DAAD66D00B80C91 /* Build configuration list for PBXNativeTarget "Cariocando" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6CBBCB971DAAD66D00B80C91 /* Debug */,
+				6CBBCB981DAAD66D00B80C91 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6CBBCB7C1DAAD66C00B80C91 /* Project object */;
+}

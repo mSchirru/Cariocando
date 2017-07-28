@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>places</key>
+	<array>
+		<dict>
+			<key>nome</key>
+			<string>Cristo Redentor</string>
+			<key>image</key>
+			<string>cristorio</string>
+			<key>descricao</key>
+			<string>Cristo Redentor é uma estátua art déco que retrata Jesus Cristo, localizada no topo do morro do Corcovado, a 709 metros acima do nível do mar, no Parque Nacional da Tijuca, com vista para a maior parte da cidade do Rio de Janeiro, Brasil. Em 2007 foi eleito informalmente como uma das novas sete maravilhas do mundo. Em 2012 a UNESCO considerou o Cristo Redentor como parte da paisagem do Rio de Janeiro incluída na lista de Patrimônios da Humanidade.</string>
+			<key>endereco</key>
+			<string>Rua da Candelária, 9 – Centro – Rio de Janeiro
+                Avenida Atlântica – Copacabana – Rio de Janeiro</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Bondinho de Santa Teresa</string>
+			<key>image</key>
+			<string>bondinho</string>
+			<key>descricao</key>
+			<string>A empresa foi fundada em 1749, com a concessão para a exploração de uma linha entre a atual Praça Quinze de Novembro e o largo da Lapa até à avenida Gomes Freire esquina com a rua do Riachuelo . Deste ponto, cem réis, foi inaugurado em 1896, o ramal de Santa Teresa, que se estendia até ao largo dos Guimarães e à rua Almirante Alexandrino.</string>
+			<key>endereco</key>
+			<string>212, R. Lélio Gama, 2 - Centro, Rio de Janeiro - State of Rio de Janeiro, 20031-080</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Escadaria Selarón</string>
+			<key>image</key>
+			<string>escadaria</string>
+			<key>descricao</key>
+			<string>Jorge Selarón (Limache, Chile, 1947 — Rio de Janeiro, 10 de janeiro de 2013) foi um pintor e ceramista autodidata chileno radicado na cidade do Rio de Janeiro, no Brasil. Sua maior e mais conhecida obra está na Rua Manoel Carneiro, no bairro de Santa Teresa: é a &quot;Escadaria do Convento de Santa Teresa&quot;, também conhecida como &quot;Escadaria Selarón&quot;, que liga a Rua Joaquim Silva, no bairro da Lapa, à Ladeira de Santa Teresa, no bairro de Santa Teresa.</string>
+			<key>endereco</key>
+			<string>R. Joaquim Silva, S/N - Centro, Rio de Janeiro - RJ, 20241-110</string>
+		</dict>
+	</array>
+</dict>
+</plist>

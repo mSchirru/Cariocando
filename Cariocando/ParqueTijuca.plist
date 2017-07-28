@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>places</key>
+	<array>
+		<dict>
+			<key>nome</key>
+			<string>Bico do Papagaio</string>
+			<key>endereco</key>
+			<string>Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>image</key>
+			<string>bicodopapagaio</string>
+			<key>descricao</key>
+			<string>O Bico de Papagaio é a segunda montanha mais alta do Parque Nacional da Tijuca. Do alto de seus 987 metros de altitude - quase 300 metros acima do morro do Corcovado -, pode-se avistar grande parte da Zona Oeste do Rio. Embora o trajeto comece de forma leve, o percurso não é considerado tão fácil: pedras e raízes tornam a caminhada difícil até o topo da montanha. A trilha começa no Largo do Bom Retiro e a primeira etapa vai até a bifurcação com o Pico da Tijuca. Após isso, é preciso ficar atento às diversas bifurcações que separam o caminho para outras trilhas do parque.</string>
+			<key>dificuldade</key>
+			<string>Difícil</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Cachoeira das Almas</string>
+			<key>endereco</key>
+			<string>Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>image</key>
+			<string>cachoeiraalmas</string>
+			<key>descricao</key>
+			<string>A trilha para a refrescante queda d.água de quatro metros de altura é plana na maior parte do percurso, com poucas subidas. Ela segue beirando o Riacho das Almas e passa por um trecho bem preservado da floresta até chegar à cachoeira. A mesma via leva também ao mirante Excelsior.</string>
+			<key>dificuldade</key>
+			<string>Fácil/Mediana</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Cachoeira Diamantina</string>
+			<key>endereco</key>
+			<string>Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>image</key>
+			<string>cachoeiradiamantina</string>
+			<key>descricao</key>
+			<string>Uma das maiores quedas d'água do Parque Nacional da Tijuca, a cachoeira fica localizada entre duas enormes pedras.</string>
+			<key>dificuldade</key>
+			<string>Fácil Acesso</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Lago das Fadas</string>
+			<key>endereco</key>
+			<string>Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>image</key>
+			<string>lagodasfadas</string>
+			<key>descricao</key>
+			<string>Um dos lugares mais bonitos da Floresta da Tijuca, o Lago das Fadas acaba de passar por revitalização, após ficar quase 70 anos sem receber nenhuma melhoria paisagística.</string>
+			<key>dificuldade</key>
+			<string>Fácil</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Cascatinha Taumay</string>
+			<key>endereco</key>
+			<string>Estrada da Cascatinha, Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>image</key>
+			<string>cascatinhataumay</string>
+			<key>descricao</key>
+			<string>Formada pelo Rio Cachoeira e localizada logo na entrada do Parque Nacional da Tijuca, é a maior e mais bonita queda d'água da toda a sua área, com 35 metros de altura. O entorno possui banheiro, lojinha e estacionamento.</string>
+			<key>dificuldade</key>
+			<string>Fácil Acesso</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Morro da cocanha</string>
+			<key>endereco</key>
+			<string>Jacarepagua, Rio de Janeiro - RJ</string>
+			<key>image</key>
+			<string>morrodacocanha</string>
+			<key>descricao</key>
+			<string>O Morro da Cocanha é a terceira maior montanha do parque com 982 metros de altitude.</string>
+			<key>dificuldade</key>
+			<string>Moderado</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Vista Chinesa</string>
+			<key>endereco</key>
+			<string>Estrada da Vista Chinesa, 1294 - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>image</key>
+			<string>vistachinesa</string>
+			<key>descricao</key>
+			<string>Por meio de uma trilha de fácil acesso e totalmente pavimentada, é possível chegar ao mirante da Vista Chinesa. Quem atinge seu topo desfruta de uma ampla vista da Zona Sul da cidade. Para os amantes de esportes, também vale a ida de bike, embora seja preciso preparo físico, já que a subida é constante. Localizado dentro do Parque Nacional da Tijuca, o mirante tem uma construção em forma de pavilhão oriental. O monumento foi construído no início do século XX, como uma homenagem aos chineses que trouxeram o cultivo do chá para o Brasil.</string>
+			<key>dificuldade</key>
+			<string>Fácil</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Pedra da Gávea</string>
+			<key>endereco</key>
+			<string>Estrada das Canoas, 561 - São Conrado, Rio de Janeiro - RJ, 22610-210</string>
+			<key>image</key>
+			<string>pedragavea</string>
+			<key>descricao</key>
+			<string>Considerada uma das mais difíceis trilhas da cidade, é preciso atenção e condicionamento físico para subir a Pedra da Gávea. Apesar do trajeto longo e pesado, a vista do Rio que seu cume oferece é arrebatadora. Para minimizar os riscos da subida, é altamente recomendável o apoio de um guia experiente. No fim da trilha, há a escalada da carrasqueira, uma parede com aproximadamente 30 metros de altura, considerada o ponto mais crítico do trajeto. A pedra fica localizada dentro do Parque Nacional da Tijuca.</string>
+			<key>dificuldade</key>
+			<string>Muito Difícil</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Parque Lage</string>
+			<key>endereco</key>
+			<string>Rua Jardim Botânico, 414 - Jardim Botânico - Jardim Botânico, Rio de Janeiro - RJ, 22461-000</string>
+			<key>image</key>
+			<string>parquelage</string>
+			<key>descricao</key>
+			<string>Além da exuberante floresta nativa e de um belíssimo casarão, o Parque Lage também abriga trilhas. Uma delas leva ao Morro do Corcovado, por um percurso que oferece contato com pássaros, borboletas e até micos. São cerca de duas horas de subida e é recomendada a contratação de um guia para auxiliar no trajeto, considerado difícil. Ainda na parte baixa da trilha, há algumas cascatas, que convidam para um rápido descanso. Ao fim do trajeto, é possível observar a paisagem do mirante que fica ao lado dos trilhos do Trem do Corcovado</string>
+			<key>dificuldade</key>
+			<string>Fácil</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Pedra do Conde</string>
+			<key>endereco</key>
+			<string>Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>image</key>
+			<string>pedradoconde</string>
+			<key>descricao</key>
+			<string>O percurso até a Pedra do Conde é de 1.990m e pode ser feito em 60min. Apenas o trecho final da trilha exige mais esforço, por ser um aclive forte e sinuoso.</string>
+			<key>dificuldade</key>
+			<string>Moderado/Difícil</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Pico da Tijuca</string>
+			<key>endereco</key>
+			<string>Parque Nacional da Tijuca - Estrada da Cascatinha, 850 - Alto da Boa Vista, Rio de Janeiro - RJ, 20531-590</string>
+			<key>image</key>
+			<string>picodatijuca</string>
+			<key>descricao</key>
+			<string>O Pico da Tijuca é a montanha mais alta da Floresta da Tijuca, com altitude de 1.022 metros. Para chegar ao seu cume, é preciso enfrentar escadaria com 117 degraus talhados em pedra, o que pode causar desconforto àqueles que possuem medo de altura. Estádio do Maracanã, Pedra da Gávea e Baía de Guanabara são facilmente apreciados do pico, localizado dentro do Parque Nacional da Tijuca. A trilha é bem sinalizada e o trajeto parte do Largo do Bom Retiro. A caminhada não é, contudo, considerada uma das mais fáceis do Rio, já que é preciso enfrentar algumas subidas íngremes durante o percurso.</string>
+			<key>dificuldade</key>
+			<string>Moderado</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Travessia da Serra</string>
+			<key>endereco</key>
+			<string>Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>image</key>
+			<string>travessiaserra</string>
+			<key>descricao</key>
+			<string>Não Encontrado</string>
+			<key>dificuldade</key>
+			<string>Fácil</string>
+		</dict>
+	</array>
+</dict>
+</plist>

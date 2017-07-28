@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>places</key>
+	<array>
+		<dict>
+			<key>nome</key>
+			<string>Teatro Municipal</string>
+			<key>image</key>
+			<string>teatromunicipal</string>
+			<key>descricao</key>
+            <string>O Teatro Municipal do Rio de Janeiro localiza-se na Cinelândia (Praça Marechal Floriano), no centro da cidade do Rio de Janeiro (RJ), no Brasil.
+</string>
+			<key>endereco</key>
+			<string>Praça Floriano, S/N - Centro, Rio de Janeiro - RJ, 20031-050</string>
+		</dict>
+        <dict>
+            <key>nome</key>
+            <string>Museu da imagem e do som</string>
+            <key>image</key>
+            <string>museumis</string>
+            <key>descricao</key>
+            <string>O primeiro museu dedicado à imagem e ao som no país possui, entre as suas duas sedes, um rico acervo de quase 1 km linear de documentos, uma discoteca contendo mais de 40 mil itens, e traduz as principais vocações da cidade: fotografia, música, cinema, televisão e rádio. Este espaço pertence à Secretaria de Estado de Cultura</string>
+            <key>endereco</key>
+            <string>R. Visc. de Maranguape, 15 - Lapa, Rio de Janeiro - RJ, 20021-390</string>
+        </dict>
+        <dict>
+            <key>nome</key>
+            <string>Museu Nacional de Belas Artes</string>
+            <key>image</key>
+            <string>museubelasartes</string>
+            <key>descricao</key>
+            <string>O Museu Nacional de Belas Artes (MNBA) é um museu de arte localizado na cidade do Rio de Janeiro, no Brasil. É um dos mais importantes museus do gênero no país.</string>
+            <key>endereco</key>
+            <string>Av. Rio Branco, 199 - Centro, Rio de Janeiro - RJ, 20040-008</string>
+        </dict>
+        <dict>
+            <key>nome</key>
+            <string>Candelária</string>
+            <key>image</key>
+            <string>candelaria</string>
+            <key>descricao</key>
+            <string>A Igreja de Nossa Senhora da Candelária é um templo católico localizado no Centro da cidade do Rio de Janeiro, no Brasil. É um dos principais monumentos religiosos da cidade, tradicional palco de casamentos da sociedade carioca.
+                
+</string>
+            <key>endereco</key>
+            <string>Praça Pio X, s/n - Centro, Rio de Janeiro - RJ, 20040-020</string>
+        </dict>
+        <dict>
+            <key>nome</key>
+            <string>Museu Histórico Nacional</string>
+            <key>image</key>
+            <string>museuhistorico</string>
+            <key>descricao</key>
+            <string>O Museu Histórico Nacional localiza-se na Praça Marechal Âncora, no centro histórico da cidade do Rio de Janeiro (RJ), no Brasil.
+                
+                Possui um vasto acervo constituído por mais de 287 mil peças sob a guarda do Ministério da Cultura, tais como documentos, imagens, moedas, selos, móveis, armas, esculturas, pratarias etc., utilizados no estudo, preservação e divulgação da História do Brasil.</string>
+            <key>endereco</key>
+            <string>Praça Mal. Âncora, s/n - Centro, Rio de Janeiro - RJ, 20021-200</string>
+        </dict>
+        <dict>
+            <key>nome</key>
+            <string>Passeio Público</string>
+            <key>image</key>
+            <string>passeiopublico</string>
+            <key>descricao</key>
+            <string>O Passeio Público do Rio de Janeiro é um parque localizado no bairro da Lapa, na cidade do Rio de Janeiro, no Brasil. Foi inaugurado no século XVIII, tendo sido o primeiro parque público das Américas.</string>
+            <key>endereco</key>
+            <string>s/nº Centro, 290, Rua do Passeio - Centro, Rio de Janeiro - State of Rio de Janeiro</string>
+        </dict>
+        <dict>
+            <key>nome</key>
+            <string>Arco do Teles</string>
+            <key>image</key>
+            <string>arco</string>
+            <key>descricao</key>
+            <string>Marco arquitetônico na história da cidade, é o que resta da antiga residência da família Teles de Menezes. Dá acesso à Travessa do Comércio.</string>
+            <key>endereco</key>
+            <string>Praça Quinze de Novembro, 34 A - Centro, Rio de Janeiro - RJ, 20010-010</string>
+        </dict>
+        <dict>
+            <key>nome</key>
+            <string>Catedral de São Sebastião</string>
+            <key>image</key>
+            <string>catedral</string>
+            <key>descricao</key>
+            <string>A Catedral de São Sebastião do Rio de Janeiro, também conhecida como Catedral Metropolitana do Rio de Janeiro, é uma catedral católica localizada no Centro da cidade do Rio de Janeiro, no Brasil. Foi inaugurada em 1979, substituindo, como catedral da cidade, a Igreja de Nossa Senhora do Carmo. Em estilo moderno, apresenta formato cônico, com 106 metros de diâmetro, 75 metros de altura externa, 64 metros de altura interna e capacidade para 20.000 pessoas em pé.</string>
+            <key>endereco</key>
+            <string>Av. Chile, 245 - Centro - Centro, Rio de Janeiro - RJ, 20031-170</string>
+        </dict>
+
+	</array>
+</dict>
+</plist>

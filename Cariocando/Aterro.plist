@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>places</key>
+	<array>
+		<dict>
+			<key>nome</key>
+			<string>Aterro do Flamengo</string>
+			<key>image</key>
+			<string>aterro</string>
+			<key>endereco</key>
+			<string>Praia do Flamengo, 116 - Flamengo, Rio de Janeiro - RJ, 22210-030</string>
+			<key>descricao</key>
+			<string>Aterro do Flamengo é um complexo de lazer da cidade do Rio de Janeiro, no Brasil. Foi construído sobre aterros sucessivos na baía de Guanabara.</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Museu de arte moderna</string>
+			<key>image</key>
+			<string>mam</string>
+			<key>endereco</key>
+			<string>Av. Infante Dom Henrique, 85 - Parque do Flamengo, Rio de Janeiro - RJ, 20021-140</string>
+			<key>descricao</key>
+			<string>O museu foi inaugurado em 1948, por iniciativa de um grupo de empresários presidido por Raymundo Ottoni de Castro Maya. É uma organização particular sem fins lucrativos, fruto do contexto cultural e econômico que o Brasil vivenciou no segundo pós-guerra, em que se observou a diversificação dos equipamentos culturais deste país, a aquisição de um valioso patrimônio artístico e a assimilação das correntes artísticas modernas.</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Monumento Aos Mortos da II Guerra Mundial</string>
+			<key>image</key>
+			<string>monumento</string>
+			<key>endereco</key>
+			<string>Avenida Infante Dom Henrique, 75 - Glória - Glória, Rio de Janeiro - RJ, 20021-140</string>
+			<key>descricao</key>
+			<string>Idealizado pelo marechal João Baptista Mascarenhas de Moraes, comandante da Força Expedicionária Brasileira (FEB), para receber os restos mortais dos soldados brasileiros mortos na Itália, foi projetado pelos arquitetos Marcos Konder Netto e Hélio Ribas Marinho, vencedores de um concurso nacional para o efeito. As obras iniciaram-se a 24 de junho de 1957 e, embora inaugurado oficialmente a 7 de abril do mesmo ano, apenas foram concluídas em 24 de junho de 1959, sendo reinauguradas em 5 de agosto do mesmo ano.</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Memorial Getúlio Vargas</string>
+			<key>image</key>
+			<string>memorial</string>
+			<key>endereco</key>
+			<string>Praça Luís de Camões, S/N - Glória, Rio de Janeiro - RJ, 22210-005</string>
+			<key>descricao</key>
+			<string>Memorial Getúlio Vargas é um museu construído pela Prefeitura do Rio. Projetado pelo arquiteto Henock de Almeida, foi inaugurado em 2004. O acervo do Memorial é composto de objetos doados pela família, amigos e instituições. Possui também a disposição arquivos em multimídia contando a história de Getúlio.</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Casa de Shows Vivo Rio</string>
+			<key>image</key>
+			<string>vivorio</string>
+			<key>endereco</key>
+			<string>Av. Infante Dom Henrique, 85 - Parque do Flamengo, Rio de Janeiro - RJ, 20021-140</string>
+			<key>descricao</key>
+			<string>Vivo Rio é uma casa de espetáculos situada no Aterro do Flamengo, Rio de Janeiro. O local fica anexo ao Museu de Arte Moderna (MAM) e foi inaugurado em novembro de 2006.</string>
+		</dict>
+	</array>
+</dict>
+</plist>

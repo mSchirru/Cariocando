@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>places</key>
+	<array>
+		<dict>
+			<key>nome</key>
+			<string>Copacabana</string>
+			<key>image</key>
+			<string>copacabana</string>
+			<key>endereco</key>
+			<string>Av. Atlântica, S/N - Copacabana, Rio de Janeiro - RJ, 22021-001</string>
+		</dict>
+        <dict>
+            <key>nome</key>
+            <string>Ipanema</string>
+            <key>image</key>
+            <string>ipanema</string>
+            <key>endereco</key>
+            <string>Av. Vieira Souto, S/N - Ipanema, Rio de Janeiro - RJ</string>
+        </dict>
+        <dict>
+            <key>nome</key>
+            <string>Leblon</string>
+            <key>image</key>
+            <string>leblon</string>
+            <key>endereco</key>
+            <string>Av. Delfim Moreira, s/n - Leblon, Rio de Janeiro - RJ</string>
+        </dict>
+        <dict>
+            <key>nome</key>
+            <string>Joatinga</string>
+            <key>image</key>
+            <string>joatinga</string>
+            <key>endereco</key>
+            <string>Rua Lasar Segall, S/N - Joá, Rio de Janeiro - RJ, 22611-100</string>
+        </dict>
+        <dict>
+            <key>nome</key>
+            <string>Arpoador</string>
+            <key>image</key>
+            <string>arpoador</string>
+            <key>endereco</key>
+            <string>Av. Francisco Bering, S/N - Ipanema, Rio de Janeiro - RJ, 22080-050</string>
+        </dict>
+        <dict>
+            <key>nome</key>
+            <string>Recreio dos Bandeirantes</string>
+            <key>image</key>
+            <string>recreio</string>
+            <key>endereco</key>
+            <string>Av. Lúcio Costa, 17686 - Recreio dos Bandeirantes, Rio de Janeiro - RJ</string>
+        </dict>
+	</array>
+</dict>
+</plist>

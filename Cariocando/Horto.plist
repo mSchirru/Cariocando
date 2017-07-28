@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>places</key>
+	<array>
+		<dict>
+			<key>nome</key>
+			<string>Cachoeira da Gruta</string>
+			<key>image</key>
+			<string>cachoeiragruta</string>
+			<key>endereco</key>
+			<string>Estrada da Cascatinha - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>dificuldade</key>
+			<string>Fácil</string>
+			<key>descricao</key>
+			<string>Oficialmente, a Cachoeira da Gruta está fora do Parque Nacional da Tijuca, mas está bem pertinho da entrada dele. A queda d’água fica, literalmente, dentro de uma gruta. Ela forma uma piscina rasa onde é possível sentar e se refrescar.</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Cachoeira dos Primatas</string>
+			<key>image</key>
+			<string>cachoeiraprimata</string>
+			<key>endereco</key>
+			<string>Estrada da Cascatinha - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>dificuldade</key>
+			<string>Fácil</string>
+			<key>descricao</key>
+			<string>Esta é uma queda d’água deliciosa que se forma com águas do Rio do Algodão, um dos responsáveis pela formação da Lagoa Rodrigo de Freitas. Ela tem uma ducha generosa que brota entre duas pedras. O poço que se forma aos seus pés é transparente e raso, com água até os joelhos no máximo.</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Cachoeira do Horto</string>
+			<key>image</key>
+			<string>cachoeiradohorto</string>
+			<key>endereco</key>
+			<string>Estrada da Cascatinha - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>dificuldade</key>
+			<string>Fácil</string>
+			<key>descricao</key>
+			<string>Talvez a mais conhecida entre as cacheiras do Rio, a queda d’água tem 20 metros de altura e desce encravada em duas rochas para formar uma pequena piscina natural. Ela é originada pelo Riacho Pai Ricardo.</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Cachoeira do Camorim</string>
+			<key>image</key>
+			<string>cachoeiracamorim</string>
+			<key>endereco</key>
+			<string>Estrada da Cascatinha - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>dificuldade</key>
+			<string>Fácil</string>
+			<key>descricao</key>
+			<string>A trilha para o Açude do Camorim começa ao lado do centro de visitantes; é uma subida leve, fácil e bem marcada, com um desnível de cerca de 300 metros. Ao longo do caminho, você passará por riachos e mirantes e em cerca de 1 hora e 10 minutos chega ao Açude do Camorim.</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Cachoeira do Chuveiro</string>
+			<key>image</key>
+			<string>cachoeiradochuveiro</string>
+			<key>endereco</key>
+			<string>Estrada da Cascatinha - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>dificuldade</key>
+			<string>Fácil</string>
+			<key>descricao</key>
+			<string>A trilha de acesso é fácil e conta com escadas naturais de raízes em sua maior parte. A água da cachoeira é bem rasa é não dá para mergulhar, mas a forte ducha natural com 5 metros de altura garante uma boa refrescada.</string>
+		</dict>
+	</array>
+</dict>
+</plist>
